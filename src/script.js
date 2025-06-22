@@ -117,6 +117,7 @@ const sphere = new THREE.Mesh(
 )
 sphere.position.x = - 3
 
+
 // Suzanne
 let suzanne = null
 gltfLoader.load(
